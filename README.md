@@ -3,7 +3,7 @@ A small python script to autocally edit the thinkfan.conf file with the new loca
 It was written for use on Linux only, but may work on other Unix-like operating systems.
 
 
-## equirements
+## requirements
 python3, ![thinkfan](https://github.com/vmatare/thinkfan) 
 
 
