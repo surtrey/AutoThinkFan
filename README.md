@@ -4,8 +4,7 @@ It was written for use on Linux only, but may work on other Unix-like operating 
 
 
 ## equirements
-python3
-![thinkfan](https://github.com/vmatare/thinkfan) 
+python3, ![thinkfan](https://github.com/vmatare/thinkfan) 
 
 
 ### how to use
